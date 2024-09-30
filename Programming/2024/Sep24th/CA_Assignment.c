@@ -1,6 +1,6 @@
 /*
 Program Description:    This program declares and assigns 3 variables with different values, and then shows them to the user.
-                     
+
 
 Author: C24510496 | Neil Jiang
 
