@@ -1,3 +1,13 @@
+/*
+Project Description: Prints 3 variables using one printf statement
+
+Author:  Neil Jiang C24510496
+
+Date:  September 24th 2024
+*/
+
+
+
 #include <stdio.h>
 
 int main () {

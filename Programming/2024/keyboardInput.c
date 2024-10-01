@@ -11,6 +11,7 @@ date:                September 30th 2024
 int main(void) {
     int var1 = 0;
 
+
     printf("Enter any whole number: ");
 
     scanf("%d", &var1);
