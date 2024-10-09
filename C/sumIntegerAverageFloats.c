@@ -5,8 +5,6 @@ Author:  Neil Jiang C24510496
 
 Date:  October 1st 2024
 */
-
-
 #include<stdio.h>
 
 int main (void) {
@@ -25,10 +23,8 @@ int main (void) {
 
     loop = 10;
     float floatingPoints = 0;
-    float sumFloatingPoints = 1;
+    float sumFloatingPoints = 1.0;
     float avgFloatingPoints = 0;
-
-
 
     while (loop != 0) {
         loop -= 1;

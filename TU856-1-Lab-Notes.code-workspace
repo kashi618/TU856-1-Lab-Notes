@@ -6,7 +6,8 @@
 	],
 	"settings": {
 		"files.associations": {
-			"ostream": "c"
+			"ostream": "c",
+			"TEMP.C": "cpp"
 		}
 	}
 }
