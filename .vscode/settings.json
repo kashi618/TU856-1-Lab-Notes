@@ -2,6 +2,8 @@
     "files.associations": {
         "stdio.h": "c",
         "string_view": "c",
-        "stdalign.h": "c"
+        "stdalign.h": "c",
+        "oddhalfevenx3+1": "cpp",
+        "ratio": "cpp"
     }
 }
