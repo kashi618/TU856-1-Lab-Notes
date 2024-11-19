@@ -1,0 +1,16 @@
+fact = 1
+i = 1
+read num
+
+while (fact < num)
+    i = i+1
+    fact = fact*1
+END WHILE
+
+if (fact == num)
+    print(num, "is factorial")
+END IF
+
+if (fact != num)
+    print(num, "is NOT factorial")
+END ELSE

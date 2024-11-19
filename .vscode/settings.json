@@ -4,6 +4,9 @@
         "string_view": "c",
         "stdalign.h": "c",
         "oddhalfevenx3+1": "cpp",
-        "ratio": "cpp"
+        "ratio": "cpp",
+        "chrono": "c",
+        "random": "c",
+        "limits": "c"
     }
 }
